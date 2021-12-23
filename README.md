@@ -1,3 +1,4 @@
+**in progress; check back in January**
 # Image-Segmentation
 The goal of this repository is to show various methods of how to segment the cheetah image (shown below) into its two components, cheetah (foreground) and grass (background). In order to do this, we rely on MATLAB and statistical learning concepts (including Gaussian classifiers, Bayesian learning, and the EM algorithm).
 
